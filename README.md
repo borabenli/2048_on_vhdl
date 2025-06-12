@@ -68,7 +68,7 @@ All gameplay logic—including shifting, merging, and tile spawning—is built u
 - After an invalid move it should not generate a random tile but in our case we realised that even if we input an invalid move, random_tile_generator still generates a 2 in a random tile with 0.
 
 
-## Future İnsights
+## Roadmap
 
 - Since all known issues located in random_tile_generator module, if we decide to do a second version, we will redesign the logic of this module.
 
