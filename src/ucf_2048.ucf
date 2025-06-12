@@ -1,0 +1,18 @@
+net CLK loc=V10;
+net load_button loc=C4;
+net up_button loc=A8;
+net down_button loc=C9;
+net right_button loc=D9;
+net left_button loc=B8;
+
+net HSYNC loc=N6;
+net VSYNC loc=P7;
+net R<0> loc=U7;
+net R<1> loc=V7;
+net R<2> loc=N7;
+net G<0> loc=P8; 
+net G<1> loc=T6; 
+net G<2> loc=V6;
+net B<0> loc=R7;
+net B<1> loc=T7;
+		
