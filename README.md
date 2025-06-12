@@ -76,7 +76,7 @@ All gameplay logic—including shifting, merging, and tile spawning—is built u
 
 ## Author
 
-**Your Name**\
+**Bora Benli**\
 GitHub: [@borabenli](https://github.com/borabenli)
 
 ---
